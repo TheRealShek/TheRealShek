@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://github.com/TheRealShek.png" alt="Abhishek Thakur avatar" width="140" style="border-radius:50%; box-shadow:0 0 15px rgba(255,255,255,0.15)" />
-</p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#e96443;">Abhishek Thakur</span> (TheRealShek)</h1>
 
