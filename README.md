@@ -47,13 +47,10 @@ Here's the stack I use to build, break, and then automate the fixing process.
 
 ---
 
-## 🚀 Featured Project — **ATHENA** (My Pet AI, almost)
-**ATHENA** — *A Golang-based toolkit for automating API test generation (Keploy-inspired MVP). Because manual testing is for mere mortals.*
-- CLI: `record` / `replay` for HTTP traffic (like a digital eavesdropper)
-- Smart diff engine (it knows when to ignore your messy transient fields)
-- Local YAML/JSON storage (because who needs databases when you have files?)
-- Stack: Go · Cobra · net/http · httptest (the usual suspects)
-- [🔗 View Project →](https://github.com/TheRealShek/ATHENA)
+## 🚀 Featured Project — **persophone** (My Pet Version Control, almost)
+**persophone** — *A Golang-based Version control System*
+- Still Building so it will take some time. 
+- [🔗 View Project →](https://github.com/chandranilbakshi/persephone)
 
 ---
 
