@@ -20,6 +20,7 @@
   <a href="https://github.com/TheRealShek/ATHENA">
     <img alt="ATHENA stars" src="https://img.shields.io/github/stars/TheRealShek/ATHENA?style=for-the-badge&color=FF4081&logo=starship" />
   </a>
+  
 </p>
 
 ---
@@ -47,10 +48,19 @@ Here's the stack I use to build, break, and then automate the fixing process.
 
 ---
 
-## 🚀 Featured Project — **persophone** (My Pet Version Control, almost)
-**persophone** — *A Golang-based Version control System*
-- Still Building so it will take some time. 
-- [🔗 View Project →](https://github.com/chandranilbakshi/persephone)
+## 🚀 Featured Project — **Persephone** (My Pet Version Control, almost)  
+*A Golang-based Version Control System*  
+- Building Git from scratch  
+- Still in active development — will take some time  
+- [🔗 View Project →](https://github.com/chandranilbakshi/persephone)  
+
+---
+
+## 🚀 Featured Project — **Athena** (Real-Time Collaborative Code Editor)  
+*A Golang-based system for real-time, multi-user code editing with instant synchronization*  
+- Built using **WebSockets** and **Operational Transformation (OT)**  
+- Still in active development — core communication layer in progress  
+- [🔗 View Project →](https://github.com/TheRealShek/ATHENA)  
 
 ---
 
