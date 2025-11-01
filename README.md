@@ -66,7 +66,7 @@ Here's the stack I use to build, break, and then automate the fixing process.
 
 ## 📫 Connect (Before I Automate My Social Interactions)
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-thakur-dev">
+  <a href="https://www.linkedin.com/in/therealshek">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Thakur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
