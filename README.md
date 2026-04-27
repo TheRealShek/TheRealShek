@@ -1,30 +1,33 @@
 # Abhishek Thakur
 
-**Backend Developer** specializing in distributed systems and concurrent programming  
-Building production-grade systems in Go • Open to backend/platform roles
+Backend engineer. Golang. I build things that don't fall over — and when they do,
+I have the observability to know exactly whose fault it was.
 
-## About Me
-I build systems that handle scale—version control that manages 10K+ files, real-time chat serving 100+ concurrent users, and backend APIs processing thousands of requests daily. I care about concurrency patterns, clean architecture, and making infrastructure reliable.
+Focused on concurrency correctness, database performance, and systems that behave
+the same way at 3am as they do during the demo.
 
-Currently building **[VanguardQ](https://github.com/TheRealShek/VanguardQ)**—a Celery-inspired task queue in Go with Redis for speed, PostgreSQL for durability, and goroutine-based workers with crash recovery.
+I don't do frontend. I don't do Java. I don't do meetings without an agenda.
 
-When I'm not writing Go, I'm containerizing services, setting up CI/CD pipelines, or optimizing database queries.
+---
 
-## Tech Stack
-**Languages:** Go (primary) • Java  
-**Backend:** gRPC • WebSockets • REST APIs • Fiber  
-**DevOps:** Docker • Kubernetes • AWS ECS • ArgoCD • GitHub Actions  
-**Data:** PostgreSQL • Redis  
-**Tools:** Prometheus • Grafana • HashiCorp Vault
+[![Portfolio](https://img.shields.io/badge/portfolio-therealshek.vercel.app-00ADD8?style=flat-square)](https://therealshek.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-therealshek-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/therealshek)
 
-## Featured Work
-**[Persephone](https://github.com/chandranilbakshi/persephone)** – Distributed version control system  
-→ 3-way merge engine, SHA-256 content addressing, 65% faster diffs via goroutines
+---
 
-**[AthenaSphere](https://github.com/chandranilbakshi/athenasphere)** – Real-time chat/voice platform  
-→ 100+ concurrent users, <200ms latency, WebRTC signaling in Go
+## Stack
 
-## Let's Connect
-📧 abhishekprofessional90@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/abhishek-thakur-dev/)  
-🌐 [Portfolio](https://therealshek.vercel.app/)
+[![Skills](https://skillicons.dev/icons?i=go,postgres,redis,kafka,docker,kubernetes,aws,prometheus,grafana,github)](https://skillicons.dev)
+
+---
+
+## Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheRealShek&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+[![Streak](https://streak-stats.demolab.com?user=TheRealShek&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
