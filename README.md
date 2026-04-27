@@ -28,6 +28,3 @@ I don't do frontend. I don't do Java. I don't do meetings without an agenda.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-[![Streak](https://streak-stats.demolab.com?user=TheRealShek&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
