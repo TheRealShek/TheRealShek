@@ -20,11 +20,3 @@ I don't do frontend. I don't do Java. I don't do meetings without an agenda.
 [![Skills](https://skillicons.dev/icons?i=go,postgres,redis,kafka,docker,kubernetes,aws,prometheus,grafana,github)](https://skillicons.dev)
 
 ---
-
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheRealShek&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&theme=dark&hide_border=true" />
-</p>
-
