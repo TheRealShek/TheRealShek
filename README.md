@@ -1,4 +1,4 @@
-# Abhishek Thakur
+# Abhishek Thakur aka TheRealShek
 
 Backend engineer. Golang. I build things that don't fall over — and when they do,
 I have the observability to know exactly whose fault it was.
