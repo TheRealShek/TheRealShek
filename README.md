@@ -1,12 +1,9 @@
-# Abhishek Thakur aka TheRealShek
+# Abhishek Thakur
+**Go backend engineer.**
 
-Backend engineer. Golang. I build things that don't fall over — and when they do,
-I have the observability to know exactly whose fault it was.
+Build systems that hold under load — and when they do not, make the failure obvious.
 
-Focused on concurrency correctness, database performance, and systems that behave
-the same way at 3am as they do during the demo.
-
-I don't do frontend. I don't do Java. I don't do meetings without an agenda.
+`→ concurrency correctness` &nbsp; `→ observability` &nbsp; `→ boringly reliable systems`
 
 ---
 
@@ -21,18 +18,19 @@ I don't do frontend. I don't do Java. I don't do meetings without an agenda.
 
 ---
 
-## Built
+## Production
 
-| Name | Built With | Summary |
+| Project | With | What |
 |---|---|---|
-| SARWAM *(private)* | Founding Engineer @ GoDigiCom | Multi-sided food delivery ecosystem, subscription-first. |
-| [Trackr7](https://github.com/TheRealShek/Trackr7) | Solo | Kafka-backed Go library for real-time location ingestion, batching, and in-memory caching. |
-| [VanguardQ](https://github.com/TheRealShek/VanguardQ) | Solo | Production-style distributed task queue in Go with retries, workers, and crash recovery. |
-| [Persephone](https://github.com/chandranilbakshi/persephone) | Collaboration | Experimental reimagining of Git in Go with concurrency-first architecture. |
+| **SARWAM** *(private)* | Founding Engineer @ GoDigiCom | Multi-sided food delivery ecosystem, subscription-first. |
+| [VanguardQ](https://github.com/TheRealShek/VanguardQ) | Go · solo | Production-style distributed task queue — retries, worker pool, crash recovery. |
+| [Trackr7](https://github.com/TheRealShek/Trackr7) | Go · Kafka · solo | Real-time location ingestion library — Kafka-backed, batching, in-memory cache. |
+| [Persephone (purr)](https://github.com/TheRealShek/persephone) | Go · solo | Git rebuilt from scratch in Go. Concurrency-first, parallel file hashing, JSON metadata. IPFS/libp2p sync on roadmap. |
 
-## Experiments
+## Experimental
 
-| Name | Built With | Summary |
+| Project | With | What |
 |---|---|---|
-| [QuickCV_V3](https://github.com/TheRealShek/QuickCV_V3) | Solo | Programmatic resume builder with live preview and server-side PDF generation. |
-| [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) | Collaboration | Real-time signaling backend with WebRTC. Collaborative project. |
+| [aiContext](https://github.com/TheRealShek/aiContext) | Go · solo | Zero-config CLI — drops `AGENTS.md` + `CLAUDE.md` into any project. No Go install required. v1.1.0. |
+| [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) | collab | Real-time signaling backend with WebRTC. |
+| [QuickCV v3](https://github.com/TheRealShek/QuickCV_V3) | solo | Programmatic resume builder — live preview, server-side PDF generation. |
