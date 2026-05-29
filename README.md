@@ -7,30 +7,41 @@ Build systems that hold under load — and when they do not, make the failure ob
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-therealshek.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://therealshek.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-therealshek-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/therealshek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://therealshek.vercel.app)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therealshek)
 
 ---
 
 ## Stack
 
-[![Skills](https://skillicons.dev/icons?i=go,postgres,redis,kafka,docker,aws,prometheus,grafana,github)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,redis,kafka,supabase,prometheus,grafana" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,argo" />
+</p>
 
 ---
 
-## Production
+## Projects
 
-| Project | With | What |
-|---|---|---|
-| **SARWAM** *(private)* | Founding Engineer @ GoDigiCom | Multi-sided food delivery ecosystem, subscription-first. |
-| [VanguardQ](https://github.com/TheRealShek/VanguardQ) | Go · solo | Production-style distributed task queue — retries, worker pool, crash recovery. |
-| [Trackr7](https://github.com/TheRealShek/Trackr7) | Go · Kafka · solo | Real-time location ingestion library — Kafka-backed, batching, in-memory cache. |
-| [Persephone (purr)](https://github.com/TheRealShek/persephone) | Go · solo | Git rebuilt from scratch in Go. Concurrency-first, parallel file hashing, JSON metadata. IPFS/libp2p sync on roadmap. |
+| **Project** | **Description** |
+|---|---|
+| *SARWAM* *(private)* | Subscription-first, multi-sided food delivery platform built using Go, Supabase, Docker, and AWS EC2. |
+| [mini-docker](https://github.com/TheRealShek/mini-docker) | A ground-up reimplementation of core Linux container primitives in Go (namespaces, pivot_root, overlayfs). |
+| [Trackr7](https://github.com/TheRealShek/Trackr7) | A scalable location ingestion pipeline in Go/Kafka for real-time tracking workloads, built around batching and caching. |
+| [Persephone (purr)](https://github.com/TheRealShek/persephone) | A Git-like VCS built from scratch in Go, focused on concurrency, parallel hashing, and JSON metadata. |
+| [VanguardQ](https://github.com/TheRealShek/VanguardQ) | Distributed task queue in Go — retries, worker pool, crash recovery. |
 
-## Experimental
+## Experiments
 
-| Project | With | What |
-|---|---|---|
-| [aiContext](https://github.com/TheRealShek/aiContext) | Go · solo | Zero-config CLI — drops `AGENTS.md` + `CLAUDE.md` into any project. No Go install required. v1.1.0. |
-| [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) | collab | Real-time signaling backend with WebRTC. |
-| [QuickCV v3](https://github.com/TheRealShek/QuickCV_V3) | solo | Programmatic resume builder — live preview, server-side PDF generation. |
+| **Project** | **Description** |
+|---|---|
+| [aiContext](https://github.com/TheRealShek/aiContext) | Zero-config Go CLI — drops `AGENTS.md` + `CLAUDE.md` into any project. No Go installation required. |
+| [QuickCV v3](https://github.com/TheRealShek/QuickCV_V3) | Programmatic resume builder — live preview, server-side PDF generation. |
+| [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) (Collaboration) | A real-time WebRTC signaling backend written in TypeScript, built as a collaborative project to coordinate audio/video peers. |
+
+---
+⭐ Drop a star if something here was useful.
