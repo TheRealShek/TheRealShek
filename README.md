@@ -7,12 +7,6 @@ Build systems that hold under load — and when they do not, make the failure ob
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://therealshek.vercel.app)
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therealshek)
-
----
-
 ## Stack
 
 <p align="left">
@@ -22,6 +16,15 @@ Build systems that hold under load — and when they do not, make the failure ob
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,argo" />
 </p>
+
+---
+
+<a href="https://github.com/TheRealShek">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealShek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&show=prs_merged" />
+</a>
+<a href="https://github.com/TheRealShek">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&langs_count=4&card_width=300&theme=tokyonight&hide_border=true&hide=shell,makefile,html,css,mdx,astro" />
+</a>
 
 ---
 
@@ -46,12 +49,10 @@ Build systems that hold under load — and when they do not, make the failure ob
 
 ---
 
-<a href="https://github.com/TheRealShek">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealShek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&show=prs_merged" />
-</a>
-<a href="https://github.com/TheRealShek">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&langs_count=4&card_width=300&theme=tokyonight&hide_border=true&hide=shell,makefile,html,css,mdx,astro" />
-</a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://therealshek.vercel.app)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therealshek)
 
 ---
 ⭐ Drop a star if something here was useful.
