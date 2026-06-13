@@ -45,4 +45,13 @@ Build systems that hold under load — and when they do not, make the failure ob
 | [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) (Collaboration) | A real-time WebRTC signaling backend written in TypeScript, built as a collaborative project to coordinate audio/video peers. |
 
 ---
+
+<a href="https://github.com/TheRealShek">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealShek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&show=prs_merged" />
+</a>
+<a href="https://github.com/TheRealShek">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&langs_count=4&card_width=300&theme=tokyonight&hide_border=true&hide=shell,makefile,html,css,mdx,astro" />
+</a>
+
+---
 ⭐ Drop a star if something here was useful.
