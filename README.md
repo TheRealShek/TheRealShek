@@ -1,5 +1,5 @@
 # Abhishek Thakur
-**Go backend engineer.**
+**Software engineer.**
 
 Build systems that hold under load — and when they do not, make the failure obvious.
 
