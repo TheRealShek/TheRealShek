@@ -10,8 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://therealshek.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/therealshek">LinkedIn</a>
+  <a href="https://x.com/TheRealShek1">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://therealshek.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/therealshek">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -19,14 +26,12 @@
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,postgres,redis,kafka,supabase,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,postgres,redis,kafka,supabase,prometheus,grafana" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,argo" />
 </p>
-
----
 
 ## 📊 GitHub at a glance
 
@@ -62,6 +67,6 @@
 
 ---
 
-<p align="center">
-  <sub>Fueled by coffee, side projects, and <code>go test -race</code>.</sub>
-</p>
+<h4 align="center">
+  Fueled by coffee, side projects, and <code>go test -race</code>.
+</h4>
