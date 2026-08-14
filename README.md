@@ -1,72 +1,21 @@
-<h1 align="center">Hey, I'm Abhishek 👋</h1>
+# Hey, I'm Abhishek
 
-<p align="center">
-  <strong>Go backend engineer building concurrent, observable, and reliable systems.</strong>
-</p>
+I mostly write Go. Rust has been taking up more of my time lately.
 
-<p align="center">
-  I build systems that stay calm under load.<br>
-  I'm still working on doing the same.
-</p>
+I like building things from the ground up—version control, containers, task queues—because that is usually how I learn what is really going on.
 
-<p align="center">
-  <a href="https://x.com/TheRealShek1">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://therealshek.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/therealshek">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+I build systems that stay calm under load. I'm trying to learn the trick myself.
 
----
+## Things I've built
 
-## 🧰 Toolbox
+[Fervion](https://github.com/TheRealShek/fervion) — source control for people and agents, with cryptographically verifiable history built on content-addressed storage.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,postgres,redis,kafka,supabase,prometheus,grafana" />
-</p>
+[aiContext](https://github.com/TheRealShek/aiContext) — keeps my AI-agent instructions consistent across projects and tools.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,argo" />
-</p>
+[Persephone](https://github.com/TheRealShek/persephone) — my attempt at understanding Git by building one in Go.
 
-## 📊 GitHub at a glance
+[mini-docker](https://github.com/TheRealShek/mini-docker) — containers make more sense after building one with namespaces, `pivot_root`, and overlayfs.
 
-<p align="center">
-  <a href="https://github.com/TheRealShek">
-    <img height="150" src="https://github-stats-extended.vercel.app/api?username=TheRealShek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&show=prs_merged" />
-  </a>
-  <a href="https://github.com/TheRealShek">
-    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheRealShek&layout=compact&langs_count=4&card_width=300&theme=tokyonight&hide_border=true&hide=shell,makefile,html,css,mdx,astro" />
-  </a>
-</p>
+I use Fedora and sometimes build for it: [open-mpv](https://github.com/TheRealShek/open-mpv) and [Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings). My AI setup lives in [fleet](https://github.com/TheRealShek/fleet).
 
----
-
-## 🚀 Main quests
-
-| **Project**                                                    | **Description**                                                                                       |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Fervion](https://github.com/TheRealShek/fervion)              | API-first, offline-capable, agent-aware personal VCS built with Rust and Go.                          |
-| [aiContext](https://github.com/TheRealShek/aiContext)          | Zero-config Go CLI that adds `AGENTS.md` and `CLAUDE.md` to any project. No Go installation required. |
-| [Persephone (purr)](https://github.com/TheRealShek/persephone) | Git-like VCS built from scratch in Go, focused on concurrency, parallel hashing, and JSON metadata.   |
-| _SARWAM_ _(private)_                                           | Subscription-first, multi-sided food delivery platform built using Go, Supabase, Docker, and AWS EC2. |
-| [vesper](https://github.com/TheRealShek/vesper)                | Native GTK4/libadwaita media gallery built for large local collections in Rust.                       |
-
-## 🧪 Side quests
-
-| **Project**                                                                      | **Description**                                                                                                               |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [QuickCV v3](https://github.com/TheRealShek/QuickCV_V3)                          | Programmatic resume builder — live preview, server-side PDF generation.                                                       |
-| [AthenaSphere](https://github.com/chandranilbakshi/athenasphere) (Collaboration) | A real-time WebRTC signaling backend written in TypeScript, built as a collaborative project to coordinate audio/video peers. |
-| [mini-docker](https://github.com/TheRealShek/mini-docker)                        | Ground-up reimplementation of core Linux container primitives in Go (namespaces, pivot_root, overlayfs).                      |
-| [VanguardQ](https://github.com/TheRealShek/VanguardQ)                            | Distributed task queue in Go — retries, worker pool, crash recovery.                                                          |
-
----
-
-<h4 align="center">
-  Fueled by coffee, side projects, and <code>go test -race</code>.
-</h4>
+[Portfolio](https://therealshek.vercel.app) · [LinkedIn](https://linkedin.com/in/therealshek) · [X](https://x.com/TheRealShek1)
