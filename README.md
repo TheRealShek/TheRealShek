@@ -18,6 +18,16 @@ I build systems that stay calm under load. I'm trying to learn the trick myself.
 
 [open-mpv](https://github.com/TheRealShek/open-mpv) · Rust: a fast, minimal photo and video viewer for GNOME on Wayland.
 
-I use Fedora and build for it. [Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings) manages my display layouts, and my AI setup lives in [fleet](https://github.com/TheRealShek/fleet).
+## Tools I built for myself
+
+I use Fedora and build for it. These are some of the tools that make my setup feel like my own.
+
+[Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings) · Rust + GJS: native GNOME controls for my external monitors.
+
+[fleet](https://github.com/TheRealShek/fleet) · My source of truth for AI-agent instructions, skills, and tool-specific adapters.
+
+[voice-ai](https://github.com/TheRealShek/voice-ai) · Rust: private, local voice dictation that transcribes on my GPU and pastes into the focused app.
+
+## Find me online
 
 [Portfolio](https://therealshek.vercel.app) · [LinkedIn](https://linkedin.com/in/therealshek) · [X](https://x.com/TheRealShek1)
