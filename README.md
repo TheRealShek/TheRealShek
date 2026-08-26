@@ -8,14 +8,16 @@ I build systems that stay calm under load. I'm trying to learn the trick myself.
 
 ## Things I've built
 
-[Fervion](https://github.com/TheRealShek/fervion) — source control for people and agents, with cryptographically verifiable history built on content-addressed storage.
+[Fervion](https://github.com/TheRealShek/fervion) · Rust + Go — an API-first, offline-capable VCS for people and agents.
 
-[aiContext](https://github.com/TheRealShek/aiContext) — keeps my AI-agent instructions consistent across projects and tools.
+[aiContext](https://github.com/TheRealShek/aiContext) · Go — portable AI-agent instructions across projects and tools.
 
-[Persephone](https://github.com/TheRealShek/persephone) — my attempt at understanding Git by building one in Go.
+[Persephone](https://github.com/TheRealShek/persephone) · Go — a Git implementation built from scratch.
 
-[mini-docker](https://github.com/TheRealShek/mini-docker) — containers make more sense after building one with namespaces, `pivot_root`, and overlayfs.
+[mini-docker](https://github.com/TheRealShek/mini-docker) · Go — a minimal container runtime.
 
-I use Fedora and sometimes build for it: [open-mpv](https://github.com/TheRealShek/open-mpv) and [Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings). My AI setup lives in [fleet](https://github.com/TheRealShek/fleet).
+[open-mpv](https://github.com/TheRealShek/open-mpv) · Rust — a fast, minimal photo and video viewer for GNOME on Wayland.
+
+I use Fedora and build for it. [Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings) manages my display layouts, and my AI setup lives in [fleet](https://github.com/TheRealShek/fleet).
 
 [Portfolio](https://therealshek.vercel.app) · [LinkedIn](https://linkedin.com/in/therealshek) · [X](https://x.com/TheRealShek1)
