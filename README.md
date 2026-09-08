@@ -8,25 +8,25 @@ I build systems that stay calm under load. I'm trying to learn the trick myself.
 
 ## Things I've built
 
-[Fervion](https://github.com/TheRealShek/fervion) · Rust + Go: an API-first, offline-capable VCS for people and agents.
+[open-mpv](https://github.com/TheRealShek/open-mpv) · [Rust] · A fast photo and video viewer for GNOME that lets you browse folders directly, without imports or a media library.
 
-[aiContext](https://github.com/TheRealShek/aiContext) · Go: portable AI-agent instructions across projects and tools.
+[Fervion](https://github.com/TheRealShek/fervion) · [Rust + Go] · An experimental offline-capable VCS with content-addressed storage, scoped encryption, and first-class support for AI agents.
 
-[Persephone](https://github.com/TheRealShek/persephone) · Go: a Git implementation built from scratch.
+[aiContext](https://github.com/TheRealShek/aiContext) · [Go] · Keeps one `AGENTS.md` as the source of truth across Codex, Claude Code, Cursor, Copilot, and Gemini CLI.
 
-[mini-docker](https://github.com/TheRealShek/mini-docker) · Go: a minimal container runtime.
+[Persephone](https://github.com/TheRealShek/persephone) · [Go] · A from-scratch VCS experiment that rethinks Git around concurrency, modern hardware, and content-addressed storage.
 
-[open-mpv](https://github.com/TheRealShek/open-mpv) · Rust: a fast, minimal photo and video viewer for GNOME on Wayland.
+[mini-docker](https://github.com/TheRealShek/mini-docker) · [Go] · A small container runtime built from Linux namespaces, overlay filesystems, and `pivot_root`.
 
 ## Tools I built for myself
 
 I use Fedora and build for it. These are some of the tools that make my setup feel like my own.
 
-[Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings) · Rust + GJS: native GNOME controls for my external monitors.
+[Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings) · [Rust + GJS] · Native GNOME controls for external monitor brightness, contrast, volume, and color settings over DDC/CI.
 
-[fleet](https://github.com/TheRealShek/fleet) · My source of truth for AI-agent instructions, skills, and tool-specific adapters.
+[fleet](https://github.com/TheRealShek/fleet) · [Config] · My source of truth for reusable AI-agent instructions, skills, and adapters across different tools.
 
-[voice-ai](https://github.com/TheRealShek/voice-ai) · Rust: private, local voice dictation that transcribes on my GPU and pastes into the focused app.
+[voice-ai](https://github.com/TheRealShek/voice-ai) · [Rust] · Private voice dictation that runs Whisper locally on my GPU and pastes the transcript into whatever app I'm using.
 
 ## Find me online
 
