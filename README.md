@@ -30,4 +30,4 @@ I use Fedora and build for it. These are some of the tools that make my setup fe
 
 ## Find me online
 
-[Portfolio](https://therealshek.vercel.app) · [LinkedIn](https://linkedin.com/in/therealshek) · [X](https://x.com/TheRealShek1)
+[Portfolio](https://therealshek.vercel.app) · [LinkedIn](https://linkedin.com/in/therealshek) · [X](https://x.com/ImTheRealShek)
