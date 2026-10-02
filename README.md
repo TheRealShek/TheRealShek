@@ -13,9 +13,9 @@ I build **systems that stay calm under load**. _I'm trying to learn the trick my
 
 ## Things I've built
 
-▸ **[open-mpv](https://github.com/TheRealShek/open-mpv)** · _[Rust]_ · Fast GNOME photo and video viewer. Browse folders without imports or a media library.
-
 ▸ **[Fervion](https://github.com/TheRealShek/fervion)** · _[Rust + Go]_ · Experimental offline-capable VCS with content-addressed storage, scoped encryption, and AI agents.
+
+▸ **[image-reducer](https://github.com/TheRealShek/image-reducer)** · _[Rust]_ · Linux CLI that downscales JPEG, PNG, and WebP images, preserves originals by default, and saves only verified, smaller results.
 
 ▸ **[aiContext](https://github.com/TheRealShek/aiContext)** · _[Go]_ · One AGENTS.md for Codex, Claude Code, Cursor, Copilot, and Gemini CLI.
 
@@ -23,15 +23,7 @@ I build **systems that stay calm under load**. _I'm trying to learn the trick my
 
 ▸ **[mini-docker](https://github.com/TheRealShek/mini-docker)** · _[Go]_ · Container runtime using Linux namespaces, overlay filesystems, and `pivot_root`.
 
-## Tools I built for myself
-
-I use **Fedora** and build for it. These are some of the tools that make my setup feel like my own.
-
-▸ **[Monitor Settings](https://github.com/TheRealShek/gnome-monitor-settings)** · _[Rust + GJS]_ · GNOME monitor controls over DDC/CI: brightness, contrast, volume, and color.
-
 ▸ **[fleet](https://github.com/TheRealShek/fleet)** · _[Config]_ · Reusable AI-agent instructions, skills, and adapters shared across tools.
-
-▸ **[voice-ai](https://github.com/TheRealShek/voice-ai)** · _[Rust]_ · Private dictation with Whisper on my GPU that pastes transcripts into the active app.
 
 ## Stack
 
