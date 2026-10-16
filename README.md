@@ -17,6 +17,8 @@ I build **systems that stay calm under load**. _I'm trying to learn the trick my
 
 ▸ **[open-mpv](https://github.com/TheRealShek/open-mpv)** · _[Rust]_ · GNOME photo and video viewer. Browse folders without imports or a media library.
 
+▸ **[LLMGate](https://github.com/TheRealShek/llmgate)** · _[Go]_ · API backend between clients and LLM inference engines.
+
 ▸ **[image-reducer](https://github.com/TheRealShek/image-reducer)** · _[Rust]_ · Linux CLI that downscales JPEG, PNG, and WebP images, preserves originals by default, and saves only verified, smaller results.
 
 ▸ **[aiContext](https://github.com/TheRealShek/aiContext)** · _[Go]_ · One AGENTS.md for Codex, Claude Code, Cursor, Copilot, and Gemini CLI.
