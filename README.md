@@ -9,8 +9,6 @@ I mostly write **Go**. **Rust** has been taking up more of my time lately.
 
 I like building things from the ground up: **version control, containers, and task queues**. That is usually how I learn what is really going on.
 
-I build **systems that stay calm under load**. _I'm trying to learn the trick myself._
-
 ## Things I've built
 
 ▸ **[Fervion](https://github.com/TheRealShek/fervion)** · _[Rust + Go]_ · Experimental offline-capable VCS with content-addressed storage, scoped encryption, and AI agents.
